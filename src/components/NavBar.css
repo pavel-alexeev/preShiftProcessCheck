@@ -1,0 +1,26 @@
+.navBar {
+  background-color: white;
+}
+
+.navBar-sub {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 9vh;
+  width: 90%;
+}
+
+.navBar h1 {
+  font-size: 1.5rem;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.companyLogo {
+  display: inline-block;
+  height: 3.5vh;
+}
